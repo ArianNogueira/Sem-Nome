@@ -1,0 +1,10 @@
+body {
+    font: 12pt Arial;
+}
+h1 {
+    font-family: 'Snell Roundhand', cursive;
+}
+
+button {
+    font-size: 16px; padding: 30px;
+}

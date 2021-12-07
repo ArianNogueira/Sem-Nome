@@ -1,0 +1,17 @@
+body {
+    font: 12pt Arial;
+}
+
+input {
+    font-size: 12pt; padding: 20px;
+}
+
+mark {
+    color: rgb(114, 0, 0);
+    background-color: rgb(255, 123, 123);
+}
+
+mark01 {
+    color: green;
+    background-color: rgb(155, 252, 155);
+}

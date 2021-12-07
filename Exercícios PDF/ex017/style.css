@@ -1,0 +1,11 @@
+body {
+    font: 12pt Arial;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', cursive;
+}
+
+button {
+    font-size: 12pt; padding: 30px;
+}
